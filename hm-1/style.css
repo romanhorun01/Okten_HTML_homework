@@ -1,0 +1,22 @@
+.body{
+    width: 100%;
+    min-height: 2000px ;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    border: 2px dashed red;
+}
+.info{
+    background: bisque;
+}
+.football_carier{
+background: aquamarine;
+    border-bottom: 2px solid red;
+}
+.club{
+    width: 600px;
+    height: 1500px;
+    background: rgb(145, 231, 227);
+    border: 3px dashed mediumvioletred;
+}
